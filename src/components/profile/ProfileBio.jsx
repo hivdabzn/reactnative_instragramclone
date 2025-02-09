@@ -4,11 +4,8 @@ import React from 'react';
 export default function ProfileBio() {
   return (
     <View style={styles.bio}>
-      <Text style={styles.name}>Username</Text>
-      <Text style={styles.description}>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt #hashtag
-      </Text>
+      <Text style={styles.name}>username</Text>
+      <Text style={styles.description}></Text>
       <Text style={styles.link}>Link goes here</Text>
       <TouchableOpacity style={styles.editProfileButton} activeOpacity={0.7}>
         <Text style={styles.editProfileText}>Edit Profile</Text>

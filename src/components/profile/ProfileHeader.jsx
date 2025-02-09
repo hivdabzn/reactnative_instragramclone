@@ -10,7 +10,7 @@ export default function ProfileHeader() {
           alignItems: 'center',
           gap: 5,
         }}>
-        <Text style={styles.username}>username</Text>
+        <Text style={styles.username}>Ali Demir</Text>
         <Dropdown />
       </View>
       <View
