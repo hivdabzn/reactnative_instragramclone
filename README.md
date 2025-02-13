@@ -1,4 +1,3 @@
- Failed to upload "EkranKayd2025-02-1315.14.31-ezgif.com-video-to-gif-converter.gif"
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
@@ -98,3 +97,5 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # reactnative_-nstragramclone
+
+<!-- Failed to upload "EkranKayd2025-02-1315.14.31-ezgif.com-video-to-gif-converter.gif" -->
