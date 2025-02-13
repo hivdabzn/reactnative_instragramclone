@@ -1,5 +1,4 @@
-
-
+![image alt](https://github.com/hivdabzn/reactnative_instragramclone/blob/520185cf61b78ed27a44987d2acea19ef01cfd6f/EkranKayd2025-02-1315.14.31-ezgif.com-optimize.gif)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
